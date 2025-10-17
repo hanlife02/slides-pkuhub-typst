@@ -34,7 +34,7 @@
 
     == I am *Ethan* 🌻
 
-    === a sophomore student in the College of Engineering
+    === a third-year student in the College of Engineering
 
     #v(1em)
 
